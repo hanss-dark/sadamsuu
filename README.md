@@ -32,7 +32,7 @@
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.youtube.com/@HanssDFox" target="_blank">
-        <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCcPSKwUtyM7rMkzW3mrsShA?style=for-the-badge&logo=youtube&logoColor=white" />
+        <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/Eq3Y0QNLSkeX_EFF6xyiyw?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
 </p>
 
