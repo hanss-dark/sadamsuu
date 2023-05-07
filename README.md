@@ -5,7 +5,8 @@
 
 # <img src="https://media.giphy.com/media/jrdgDVFrcgJpNlonWO/giphy.gif" width="50"> Hi, let's me introduce myself. I am Saddam Sahid
 
--  🚀 I'm a Front End Engineer based in Indonesia  
+
+-  🚀 I am a graduate of Computer Science and Front End Engineer based in Indonesia
   
 
 - 🌱 I describe myself as a passionate developer who loves coding, open source, and the web platform  
@@ -15,6 +16,7 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
 
 - 💻 And now I am a Fivem developer
   
