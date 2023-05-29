@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 
-- 💻 And now I am a Fivem developer
+- 💻 And now I am a Web Developer in Teladan News
   
 
 <br/>  
