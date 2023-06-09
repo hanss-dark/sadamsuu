@@ -1,42 +1,6 @@
 <div align="center">
 <img src="https://nftgames.net/wp-content/uploads/2022/03/doodlesnft.png" align="center" style="width: 100%" />
-</div>  
-  
-
-# <img src="https://media.giphy.com/media/jrdgDVFrcgJpNlonWO/giphy.gif" width="50"> Hi, let's me introduce myself. I am Saddam Sahid
-
-
--  🚀 I am a graduate of Computer Science and Front End Engineer based in Indonesia
-  
-
-- 🌱 I describe myself as a passionate developer who loves coding, open source, and the web platform  
-  
-
-- ❓ Ask me about anything related to web developer and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-
-
-- 💻 And now I am a Web Developer in Teladan News
-  
-
-<br/>  
-
-<p align="center">
-    <a href="https://github.com/sadamsuu" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/sadamsuu" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/sadamsuu" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.youtube.com/@HanssDFox" target="_blank">
-        <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCwDy9YXj0EO7Eh9JnfEhB1w?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-</p>
+</div>
 
 # <img src="https://media.giphy.com/media/0vTOscboHgOyBSuK4r/giphy.gif" width="50"> My Skill Set
 
